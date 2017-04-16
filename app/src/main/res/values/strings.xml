@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">365 Names of God</string>
+    <string name="title_activity_base_avtivity">BaseAvtivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="open_drawer">open_drawer</string>
+    <string name="close_drawer">close_drawer</string>
+</resources>
